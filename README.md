@@ -6,6 +6,7 @@ I needed an installation of Python, plus the following libraries:
 * pandas
 * NumPy
 * Matplotlib
+* seaborn
 * csv
 
 >I recommend installing [Anaconda](https://www.continuum.io/downloads), which comes with all of the necessary packages, as well as IPython notebook.
